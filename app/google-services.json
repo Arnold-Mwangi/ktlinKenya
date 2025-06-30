@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "991841374193",
+    "project_id": "kotlinkenya-ab4d5",
+    "storage_bucket": "kotlinkenya-ab4d5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991841374193:android:2b98adcc5b5bfe6cebfe50",
+        "android_client_info": {
+          "package_name": "com.example.kotlinkenya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYE_cru9bYKUX-qoQ2qBr0GHeNGxezbQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
